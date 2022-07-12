@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+
+:root {
+	--text-color: #1D1D1D;
+	--text-color-title: #FFFFFF;
+	--background-color: #1D1D1D;
+	--background-color-two: #F4F3F4;
+}
+
+.body {
+	font-family: 'Bebos Neue';
+	color: var(--text-color);
+	
+}
+
+ul {
+	list-style-type: none;
+}
+
+.title {
+	color: var(--text-color-title);
+}
+
+.work {
+	
+}
